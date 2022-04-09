@@ -68,3 +68,9 @@
 ![image15](image/0-10_f-button.PNG)<br>
 - Setelah mengklik latar belakang hijau<br>
 ![image16](image/0-10-1_f-button.PNG)<br>
+
+## <b>11. HTML DOM </b>
+- Setelah dijalankan<br>
+![image17](image/0-11_dom.PNG)<br>
+- Setelah memilih 2 menu<br>
+![image18](image/0-11-1_dom.PNG)<br>

@@ -40,34 +40,31 @@
 ![image6](image/0-5_fungsi.PNG)<br>
 
 ## <b>6. Operasi dasar aritmatika </b>
-![image7](image/0-5_fungsi.PNG)<br>
-
-## <b>7. Operasi dasar aritmatika </b>
 - Setelah dijalankan<br>
-![image8](image/0-6_aritmatik.PNG)<br>
+![image7](image/0-6_aritmatik.PNG)<br>
 - Ketika diklik, ini merupakan operasi dari bil 9 dan 4<br>
-![image9](image/0-6_aritmatik.PNG)<br>
+![image8](image/0-6-1_aritmatik.PNG)<br>
 
-## <b>8. Seleksi kondisi </b>
+## <b>7. Seleksi kondisi </b>
 - Setelah dijalankan<br>
-![image10](image/0-7_kondisi.PNG)<br>
+![image9](image/0-7_kondisi.PNG)<br>
 - Ketika diinput 75, maka hasilnya ``lulus``, jika kurang dari 60 ``tidak lulus``<br>
-![image11](image/0-7-1_kondisi.PNG)<br>
+![image10](image/0-7-1_kondisi.PNG)<br>
 
-## <b>8. Seleksi kondisi </b>
+## <b>8. Switch untuk seleksi kondisi </b>
 - Setelah dijalankan<br>
-![image12](image/0-8_switch.PNG)<br>
+![image11](image/0-8_switch.PNG)<br>
 - Ketika diinput 4<br>
-![image13](image/0-8-1_switch.PNG)<br>
+![image12](image/0-8-1_switch.PNG)<br>
 
 ## <b>9. Form input </b>
 - Setelah dijalankan<br>
-![image14](image/0-9_f-input.PNG)<br>
+![image13](image/0-9_f-input.PNG)<br>
 - Setelah diinput angka 4<br>
-![image15](image/0-9-1_f-input.PNG)<br>
+![image14](image/0-9-1_f-input.PNG)<br>
 
 ## <b>10. Form button </b>
 - Setelah dijalankan<br>
-![image16](image/0-9_f-input.PNG)<br>
+![image15](image/0-10_f-button.PNG)<br>
 - Setelah mengklik latar belakang hijau<br>
-![image17](image/0-9-1_f-input.PNG)<br>
+![image16](image/0-10-1_f-button.PNG)<br>

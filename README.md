@@ -74,3 +74,19 @@
 ![image17](image/0-11_dom.PNG)<br>
 - Setelah memilih 2 menu<br>
 ![image18](image/0-11-1_dom.PNG)<br>
+
+# TUGAS
+<b>1. Buat script untuk melakukan validasi pada isian form</b><br>
+- Jawaban: 
+
+- Ketika kode dijalankan,<br>
+![image19](image/1-r-code.PNG)
+
+- Ketika hanya memasukkan ``username``, muncul peringatan kolom yang harus diisi<br>
+![image20](image/2-r-code.PNG)<br>
+
+- Muncul peringatan ketika kolom ``confirm password`` tak sesuai.<br>
+![image21](image/3-r-code.PNG)<br>
+
+- Ketika semua sudah sesuai, maka nilai akan dikembalikan.
+

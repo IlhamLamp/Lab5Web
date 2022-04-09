@@ -88,5 +88,8 @@
 - Muncul peringatan ketika kolom ``confirm password`` tak sesuai.<br>
 ![image21](image/3-r-code.PNG)<br>
 
-- Ketika semua sudah sesuai, maka nilai akan dikembalikan.
+- Ketika semua sudah sesuai, maka nilai akan dikembalikan.<br>
+- Masih terdapat kesalahan dalam penulisan kode.<br>
+![image22](image/4-check.PNG)
+
 
